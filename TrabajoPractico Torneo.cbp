@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TrabajoPracticoArchivo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TrabajoPracticoArchivo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TrabajoPracticoArchivo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ClaseArchivoDeportes.h" />
+		<Unit filename="ClaseArchivoEquipos.h" />
+		<Unit filename="ClaseArchivoJugador.h" />
+		<Unit filename="ClaseArchivoTiposDeporte.h" />
+		<Unit filename="ClaseDeporte.h" />
+		<Unit filename="ClaseEquipo.h" />
+		<Unit filename="ClaseFecha.h" />
+		<Unit filename="ClaseJugador.h" />
+		<Unit filename="ClaseTipoDeporte.h" />
+		<Unit filename="Configuracion.h" />
+		<Unit filename="FuncionesGenerales.h" />
+		<Unit filename="MenuConfiguracion.h" />
+		<Unit filename="MenuDeportes.h" />
+		<Unit filename="MenuEquipos.h" />
+		<Unit filename="MenuJugadores.h" />
+		<Unit filename="MenuReportes.h" />
+		<Unit filename="MenuTiposDeporte.h" />
+		<Unit filename="Reportes.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

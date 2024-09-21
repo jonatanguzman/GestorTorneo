@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1699014552 source:d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<time.h>
+	<iomanip>
+	"FuncionesGenerales.h"
+	"ClaseFecha.h"
+	"ClaseTipoDeporte.h"
+	"ClaseArchivoTiposDeporte.h"
+	"ClaseDeporte.h"
+	"ClaseArchivoDeportes.h"
+	"ClaseEquipo.h"
+	"ClaseArchivoEquipos.h"
+	"ClaseJugador.h"
+	"ClaseArchivoJugador.h"
+	"MenuDeportes.h"
+	"MenuJugadores.h"
+	"MenuConfiguracion.h"
+	"Configuracion.h"
+	"MenuReportes.h"
+	"Reportes.h"
+	"MenuEquipos.h"
+	"MenuTiposDeporte.h"
+
+1696472194 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\funcionesgenerales.h
+
+1699196763 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\clasefecha.h
+
+1699412343 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\clasetipodeporte.h
+
+1699412343 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\clasearchivotiposdeporte.h
+
+1699367246 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\clasedeporte.h
+
+1699413206 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\clasearchivodeportes.h
+
+1699412638 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\claseequipo.h
+
+1699413017 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\clasearchivoequipos.h
+
+1699498445 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\clasejugador.h
+
+1699499387 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\clasearchivojugador.h
+
+1699200616 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\menudeportes.h
+	<cstdio>
+	<cstring>
+
+1698609197 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\menujugadores.h
+	<cstdio>
+	<cstring>
+
+1699414394 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\menuconfiguracion.h
+
+1699414394 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\configuracion.h
+
+1699368332 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\menureportes.h
+
+1699368332 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\reportes.h
+
+1699281125 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\menuequipos.h
+
+1699210717 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico archivos\menutiposdeporte.h
+	<cstdio>
+	<cstring>
+
+1699014552 source:d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<time.h>
+	<iomanip>
+	"FuncionesGenerales.h"
+	"ClaseFecha.h"
+	"ClaseTipoDeporte.h"
+	"ClaseArchivoTiposDeporte.h"
+	"ClaseDeporte.h"
+	"ClaseArchivoDeportes.h"
+	"ClaseEquipo.h"
+	"ClaseArchivoEquipos.h"
+	"ClaseJugador.h"
+	"ClaseArchivoJugador.h"
+	"MenuDeportes.h"
+	"MenuJugadores.h"
+	"MenuConfiguracion.h"
+	"Configuracion.h"
+	"MenuReportes.h"
+	"Reportes.h"
+	"MenuEquipos.h"
+	"MenuTiposDeporte.h"
+
+1696472194 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\funcionesgenerales.h
+
+1699196763 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasefecha.h
+
+1699412343 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasetipodeporte.h
+
+1699412343 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasearchivotiposdeporte.h
+
+1699367246 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasedeporte.h
+
+1699413206 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasearchivodeportes.h
+
+1699412638 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\claseequipo.h
+
+1699413017 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasearchivoequipos.h
+
+1699528274 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasejugador.h
+
+1699534299 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasearchivojugador.h
+
+1699200616 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\menudeportes.h
+	<cstdio>
+	<cstring>
+
+1698609197 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\menujugadores.h
+	<cstdio>
+	<cstring>
+
+1699414394 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\menuconfiguracion.h
+
+1699414394 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\configuracion.h
+
+1700140558 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\menureportes.h
+
+1700143959 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\reportes.h
+
+1699281125 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\menuequipos.h
+
+1699210717 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\menutiposdeporte.h
+	<cstdio>
+	<cstring>
+

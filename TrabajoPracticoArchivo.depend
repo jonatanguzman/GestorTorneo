@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1694995545 source:d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\laboratorio 2\trabajo practico archivo\trabajopracticoarchivo\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"MenuJugadores.h"
+	"FuncionesTorneo.h"
+	"ClaseFecha.h"
+	"ClaseJugador.h"
+
+1695005443 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\laboratorio 2\trabajo practico archivo\trabajopracticoarchivo\menujugadores.h
+
+1694995545 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\laboratorio 2\trabajo practico archivo\trabajopracticoarchivo\funcionestorneo.h
+
+1694991945 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\laboratorio 2\trabajo practico archivo\trabajopracticoarchivo\clasefecha.h
+
+1695003684 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\laboratorio 2\trabajo practico archivo\trabajopracticoarchivo\clasejugador.h
+
+1695519799 source:d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"FuncionesTorneo.h"
+	"MenuJugadores.h"
+	"ClaseFecha.h"
+	"ClaseJugador.h"
+	"MostrarPorDNI.h"
+
+1695566366 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\menujugadores.h
+	<cstdio>
+	<cstring>
+
+1695519438 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\funcionestorneo.h
+
+1694991945 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasefecha.h
+
+1695517784 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\clasejugador.h
+
+1695565538 d:\documentos\utn\segundo cuatrimestre\programacion 2 - laboratorio 2\trabajopractico torneo\mostrarpordni.h
+
